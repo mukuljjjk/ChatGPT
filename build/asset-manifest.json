@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f769450.css",
+    "main.js": "/static/js/main.d25e5f95.js",
+    "static/media/possibility.png": "/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/chatgpt.jpg": "/static/media/chatgpt.59e0cf8d590a8bdd9c59.jpg",
+    "static/media/blog03.png": "/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/three.jpg": "/static/media/three.fe90277e20d9483f22c6.jpg",
+    "static/media/two.jpg": "/static/media/two.ae9a2afbad1eb683f251.jpg",
+    "static/media/one.jpg": "/static/media/one.76c0d8516ca333ab534a.jpg",
+    "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/index.html",
+    "main.7f769450.css.map": "/static/css/main.7f769450.css.map",
+    "main.d25e5f95.js.map": "/static/js/main.d25e5f95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f769450.css",
+    "static/js/main.d25e5f95.js"
+  ]
+}
